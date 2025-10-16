@@ -65,7 +65,7 @@ To demonstrate my growth as a Data Analyst by building projects that turn raw da
 ---
 
 <details>
-<summary><b> AI Customization – GPT-based Model (MiniX)</b></summary>
+  <summary><b><a href="https://github.com/Cyaba/AI-Customization-Project/tree/main" target="_blank">AI Customization Project – GitHub</a></b></summary>
 
 ![Python](https://img.shields.io/badge/Python-AI%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 
