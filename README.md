@@ -28,49 +28,8 @@ To demonstrate my growth as a Data Analyst by building projects that turn raw da
 ![Cisco Networking Academy](https://img.shields.io/badge/Engaging%20Stakeholders%20for%20Success-Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 ![KNUST](https://img.shields.io/badge/BSc.%20Bachelor%20of%20Science-KNUST-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black)  
 
-## Projects 
-<details>
-<summary><b><a href="https://public.tableau.com/app/profile/nancy.aba.warden/viz/HRDashboard_17605803436190/HRAnanlyticsDashboard" target="_blank">HR Analytics Dashboard – Tableau</a></b></summary>
-
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-2C74B3?style=flat-square&logo=tableau&logoColor=white)
-
-- Designed a comprehensive HR analytics dashboard tracking employee count, attrition rate, job satisfaction, and demographics.  
-- Delivered insights into attrition trends by department, age group, and gender to support evidence-based HR decisions.  
-</details>
-
----
-
-<details>
-<summary><b><a href="https://app.powerbi.com/groups/me/reports/834f6a49-1738-439e-9f55-ac8b452c8abe/bdfef968610a7200ca08?experience=power-bi" target="_blank">Medisight Dashboard – Power BI</a></b></summary>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-- Built an interactive healthcare dashboard analyzing inpatient, outpatient, and day-case trends across medical specialties.  
-- Visualized waitlist growth, age profiles, and specialty demand to enhance healthcare planning and resource allocation.  
-</details>
-
----
-
-<details>
-
-<summary><b> <a href="https://app.powerbi.com/groups/me/reports/723b0af1-dade-4e72-9901-6f69d9271332/4fb14218ce93040e0216?experience=power-bi" target="_blank">BookVista Dashboard – Power BI</a></b></summary>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-- Designed a Power BI dashboard to analyze book sales by title and genre.  
-- Visualized price totals, average book price, and distribution of books across genres.  
-- Enabled actionable insights for inventory management and marketing strategies.  
-</details>
-
----
-
-<details>
-  <summary><b><a href="https://github.com/Cyaba/AI-Customization-Project/tree/main" target="_blank">AI Customization Project – GitHub</a></b></summary>
-
-![Python](https://img.shields.io/badge/Python-AI%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- Customized a GPT-based AI model for log analysis and anomaly detection.  
-- Automated data interpretation and reporting workflows, improving efficiency and accuracy.  
-</details>
-
----
+## <b><a href="https://cyaba.github.io/Website/" target="_blank">Projects</a></b>
+- <b><a href="https://public.tableau.com/app/profile/nancy.aba.warden/viz/HRDashboard_17605803436190/HRAnanlyticsDashboard" target="_blank">HR Analytics Dashboard – Tableau</a></b>
+- <b><a href="https://app.powerbi.com/groups/me/reports/834f6a49-1738-439e-9f55-ac8b452c8abe/bdfef968610a7200ca08?experience=power-bi" target="_blank">Medisight Dashboard – Power BI</a></b>
+- <b> <a href="https://app.powerbi.com/groups/me/reports/723b0af1-dade-4e72-9901-6f69d9271332/4fb14218ce93040e0216?experience=power-bi" target="_blank">BookVista Dashboard – Power BI</a></b>
+- <b><a href="https://github.com/Cyaba/AI-Customization-Project/tree/main" target="_blank">AI Customization Project – GitHub</a></b>
